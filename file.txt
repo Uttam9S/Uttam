@@ -1,2 +1,5 @@
 This is my first text file in branch 2 with name git
 Dated 24th Dec at 19:18
+
+This has been now merged
+
