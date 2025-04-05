@@ -1,2 +1,0 @@
-This is my first file in Git.
-Dated 24th Dec 19:04
